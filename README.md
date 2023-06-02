@@ -1,2 +1,2 @@
-# LJ_Cluster
-Lennard-Jones Cluster optimization using a conjugate gradient optimizer.
+# Lennard Jones Cluster Optimizer
+Lennard-Jones Cluster optimization using a general purpose conjugate gradient optimizer.
